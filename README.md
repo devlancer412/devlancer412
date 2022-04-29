@@ -34,17 +34,17 @@
 
 - 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
-- 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
-- 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
+- 🥇 React 𒑰 Next.js 𒑰 Tailwind CSS 𒑰 styled-components 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
+- 🎒 NodeJS 𒑰 Express 𒑰 Laravel 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
 - 🏹 Chrome extension with React & Redux
 - 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
-- 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
+- 🚩 Github 𒑰 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
 
 ### 🚧 Current Projects
 - 🤑 Multi-DEX & Payment Integration
 - 🔗 Third Party API Integration
-- 🎨 React 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby
-- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
+- 🎨 React 𒑰 Next.js 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Gatsby
+- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 Laravel 𒑰 MySQL 𒑰 MongoDB 𒑰 PostgreSQL
 
 ### 🌱 What I'm boosting
 - 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
