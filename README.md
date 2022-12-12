@@ -10,5 +10,5 @@ I have good experience in Ethereum blockchain and full stack development. Have w
 3. Smart contract development with Hardhat/Remix
 4. Web3 integration with Ethers.js, Web3.js and Web3.py
 5. Frontend development with React/Next.js, Tailwind CSS, styped-components and scss
-6. Backend developement with Express(Node.js), Laravel(PHP) and FastAPI(python)
+6. Backend development with Express(Node.js), Laravel(PHP) and FastAPI(python)
 7. Database architecture. MySQL, MongoDB and Azure cosmos db
