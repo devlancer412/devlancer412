@@ -9,10 +9,9 @@ PROFILE SUMMARY:
 * Over 5 years of professional experience in Information Technology with extensive experience in application development using back end technologies
 * Over 3 years of experience in working in fast-paced, high tech environments with cross functional teams using agile methodology
 * Over 3 years of experience in building smart contract and dapps in EVM networks such as Ethereum, Polygon, Arbitrum, Avalanche, BSC and so on.
-* Through knowledge in developing cloud native application using micro service methodology in pivotal cloud foundry platform
 * In depth knowledge in developing restful web service API with best practices
 * Hands on experience in SCRUM Agile model, XP practices like pair programming and test driven and Test Driven Development (TDD)
-* Hands on experience in developing web user interface (UI), T using Angular, Angular JS, React, Next, Javascript, Typescript, HTML and CSS
+* Hands on experience in developing web user interface (UI), React, Next, Javascript, Typescript, HTML and CSS
 * Through knowledge in SQL and Databases concepts
 * Good expertise in the usage of data interchange formats like JSON and XML
 * IT specialist well-versed in troubleshooting and repairing malfunctioning hardware and software
@@ -40,9 +39,9 @@ My skills
 - Firebase, AWS, Heroku,
 
 3) Smart Contract Development
--Solidity/Rust
+-Solidity
 -Hardhat/Foundry
--openzeppelin, ERC20, ERC721, ERC721A, ERC1155, ERC2535 and so on.
+-openzeppelin, ERC20, ERC721, ERC721A, ERC1155, ERC2535, ERC2981 and so on.
 -Mocha, Chai, Unit Test with Hardhat test and Foundry forge test
 
 4) Project Management Methodology:
